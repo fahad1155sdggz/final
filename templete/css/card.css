@@ -1,0 +1,68 @@
+.card-text{
+    font-size: 35px;
+    font-weight: 700;
+}
+.card-div{
+    border-radius: 20px !important;
+
+}
+.card-div img{
+    border-radius: 20px 20px 0 0;
+}
+.card-dollar{
+    color: #FB6F06;
+    font-weight: bold;
+    font-size: 25px;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+}
+.offer-inner p{
+font-size: 10px;
+color: #1E1E1E;
+}
+.offer-inner img{
+width: 15px;
+border-radius: 0;
+ }
+
+.overlay-2{
+    height: 405px;
+border-radius: 20px;
+ background: linear-gradient(180deg, rgba(34, 255, 255, 0.5) 20.13%, rgba(34, 255, 255, 0) 100%);
+margin-top: -180px;
+}
+
+@media only screen and (max-width: 576px) {
+  .card-1 {
+    margin-bottom: 15px;
+  }
+}
+
+ @media only screen and (max-width: 768px) {
+  .card-1 {
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .card-1 {
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .card-2 {
+    margin-bottom: 15px;
+  }
+}
+
+ @media only screen and (max-width: 768px) {
+  .card-2 {
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .card-2 {
+    margin-bottom: 15px;
+  }
+}

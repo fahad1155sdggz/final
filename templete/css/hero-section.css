@@ -1,0 +1,27 @@
+.bg-img{
+    background-image: url(../img/cover-img.png);
+    height: 545px;
+    border-radius: 45px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.overlay{
+    background: linear-gradient(90deg, rgba(69,204,231,0.9865079820990896) 34%, rgba(242,233,233,0.4094771697741597) 56%, rgba(96,155,149,0) 59%);     width: 1214px;
+    border-radius: 45px;
+    height: 545px;
+}
+.hero-section-margin{
+    padding-top: 60px;
+    padding-left: 35px; 
+}
+.slide-icon-img{
+border: 1px solid #180a80;
+border-radius: 50%;
+width: 30px;
+height: 30px;
+padding: 0 6px 4px 5px;
+}
+.hero-section-text{
+    color: #FB6F06;
+    padding-left: 15px;
+}
